@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+/NOTES.md
+/legacy-js/
+/tests/
+/coverage/
+/dist/
+/.github/
+/.vscode/
+/docker-compose.yml
